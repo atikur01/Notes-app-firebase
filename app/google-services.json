@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "434864894155",
+    "firebase_url": "https://notes-app-39860-default-rtdb.firebaseio.com",
+    "project_id": "notes-app-39860",
+    "storage_bucket": "notes-app-39860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434864894155:android:2eb27704a6110af28b6b4e",
+        "android_client_info": {
+          "package_name": "com.zillurapps.easytutonotespromaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVq2zjch2bYKrl8b9XcfqHdKybkORR2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
